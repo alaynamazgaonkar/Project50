@@ -1,0 +1,26 @@
+h1{
+    background-color: bisque ;
+    color:darkslateblue   
+}
+body{
+    background-color:lavender;
+}
+.one{
+background-color: bisque;
+color:darkslateblue   
+}
+
+.two{
+    display:flex;
+    justify-content: wrap;
+    border:solid
+}
+
+.one{
+    display:flex;
+    justify-content: center;
+}
+
+.three{
+ border:solid   
+}
